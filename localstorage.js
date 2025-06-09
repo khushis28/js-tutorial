@@ -1,0 +1,1 @@
+let key = prompt("Enter key value you want to set")
